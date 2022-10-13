@@ -1,12 +1,12 @@
 ## Question
 Id : ai900-assesment-exercise1  
-Assigning classes to images before training a classification model is an example of:
+Which type of artificial intelligence workload uses sensors to proactively alert users about potential equipment mechanical failures?
 
 ## Options
-Option1 : Evaluation  
-Option2 : Feature engineering  
-Option3 : hyper parameter tuning  
-Option4 : labelling  
+Option1 : Anomaly detection  
+Option2 : Computer vision  
+Option3 : Natural language processing  
+Option4 : Conversational AI  
 
 ## Answer
-Option4 : labelling
+Option1 : Anomaly detection 
