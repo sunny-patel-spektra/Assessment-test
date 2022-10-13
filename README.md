@@ -2,22 +2,13 @@
 
 ## Introduction
 
-We are working on integrating Assesments to our existing Lab guide + VM experience. Let's see how it looks.
+This exam is an opportunity to demonstrate knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services. Candidates for this exam should have familiarity with Exam AI-900’s self-paced or instructor-led learning material.
 
-Below provided is an assessment.
+This exam is intended for candidates with both technical and non-technical backgrounds. Data science and software engineering experience are not required; however, awareness of cloud basics and client-server applications would be beneficial.
 
-Which of the following is an Azure Resource
-* EC2 Instance
-* ExpressRoute
-* Storage Bucket
-* Compute Instance
+<injectQuestion id=”ai900-assesment-exercise1”></injectQuestion>
 
+Azure AI Fundamentals can be used to prepare for other Azure role-based certifications like Azure Data Scientist Associate or Azure AI Engineer Associate, but it is not a prerequisite for any of them.
 
-Now that this assesment is over, let's move on and create another assesment below. 
-
-Your developers have created 10 web applications that must be host on Azure. You need to determine which Azure web tier plan to host the web apps. The web tier plan must meet the following requirements: ✑ The web apps will use custom domains. ✑ The web apps each require 10 GB of storage. ✑ The web apps must each run in dedicated compute instances. ✑ Load balancing between instances must be included. ✑ Costs must be minimized. Which web tier plan should you use?
-
-* Standard
-* Basic
-* Free
+You may be eligible for ACE college credit if you pass this certification exam. See ACE college credit for certification exams for details.
 * Shared
