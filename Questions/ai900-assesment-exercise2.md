@@ -1,5 +1,5 @@
 ## Question
-Id : ai900-assesment-exercise1  
+Id : ai900-assesment-exercise2  
 Which type of artificial intelligence workload uses sensors to proactively alert users about potential equipment mechanical failures?
 
 ## Options
