@@ -1,0 +1,6 @@
+{
+  "QuestionGuid": "ai900-assesment-exercise4",
+  "Question": "What service does provide a user interface for a Conversation AI agent?",
+  "Options": ["Azure Speech", "Bot Framework", "QnA Maker", "Azure Bot Service", "Computer Vision Service"],
+  "Answer": "Azure Bot Service"
+}
