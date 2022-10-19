@@ -1,0 +1,6 @@
+{
+  "QuestionGuid": "ai900-assesment-exercise6",
+  "Question": "What markup language will you use for the control of Speech Synthesis output for your phone auto attendant?",
+  "Options": ["HTML", "SQL", "SSML", "JSON"],
+  "Answer": "SSML"
+}
