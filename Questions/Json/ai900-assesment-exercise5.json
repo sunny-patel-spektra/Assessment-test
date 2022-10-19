@@ -1,0 +1,6 @@
+{
+  "QuestionGuid": "ai900-assesment-exercise5",
+  "Question": "You are creating a Compute cluster for the production environment. You set the maximum number of nodes to 5. What should be the value for the minimum number of nodes?",
+  "Options": ["5", "0", "2", "1", "3", "4"],
+  "Answer": "0"
+}
