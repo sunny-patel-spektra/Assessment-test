@@ -2,5 +2,5 @@
   "QuestionGuid": "ai900-assesment-exercise7",
   "Question": "You need to predict the animal population of an area. Which Azure Machine Learning type should you use?",
   "Options": ["regression", "clustering", "classification"],
-  "Answer": "regression"
+  "CorrectOption": "regression"
 }
