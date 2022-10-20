@@ -2,5 +2,5 @@
   "QuestionGuid": "ai900-assesment-exercise3",
   "Question": "When you are creating a Clustering Model, what common ML algorithm are you using?",
   "Options": ["Multiclass Logistic Regression", "K-means", "Linear Regression", "Two-Class Neural Network", "Decision Forest Regression"],
-  "Answer": "K-means"
+  "CorrectOption": "K-means"
 }
